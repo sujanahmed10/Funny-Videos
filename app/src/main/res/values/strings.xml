@@ -2,7 +2,7 @@
     <string name="app_name">Cartoon Tube</string>
 
     <!-- Admob AD ON or OFF -->
-    <string name="show_admob_ad">ON</string>
+    <string name="show_admob_ad">OFF</string>
 
     <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
     <string name="device_id">ABCD</string>
